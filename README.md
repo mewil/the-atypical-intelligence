@@ -1,2 +1,3 @@
 # the-atypical-intelligence
-A half C++ Data Structure, half essay, that explores topics in artifical intelligence and a wide range of other topics
+A work in progress
+A half C++ Data Structure, half essay, that explores areas of artifical intelligence, philosophy, and a wide range of other topics

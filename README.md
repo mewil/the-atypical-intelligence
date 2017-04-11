@@ -1,2 +1,2 @@
 # the-atypical-intelligence
-An ongoing project to make a C++ Data Structure that resembles the human body
+A half C++ Data Structure, half essay, that explores topics in artifical intelligence and a wide range of other topics
